@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{686:function(n,o,e){"use strict";e.r(o);var t={},l=e(73),component=Object(l.a)(t,(function(){var n=this._self._c;return n("div",[n("FacebookClone")],1)}),[],!1,null,"210483b9",null);o.default=component.exports;installComponents(component,{FacebookClone:e(680).default})}}]);
